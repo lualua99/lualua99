@@ -14,11 +14,5 @@
 - 💬 **可以问我关于**  
   系统编程、C++/Rust/Python 开发、性能调优、跨语言互操作、Linux 内核接口、操作系统原理等方面的任何问题！
 
-- 📫 **如何联系我**  
-  （留空，由你决定是否补充）
 
-- 😄 **称呼**  
-  （留空）
-
-- ⚡ **趣事**  
-  （留空）
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lualua99)](https://github.com/anuraghazra/github-readme-stats)
