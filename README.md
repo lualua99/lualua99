@@ -11,8 +11,5 @@
 - 👯 **我想合作的方向**  
   欢迎在系统编程、操作系统开发、高性能计算、嵌入式或开源工具链方面交流与合作。如果你对内核、虚拟机、编译原理或底层网络感兴趣，欢迎一起探讨！
 
-- 💬 **可以问我关于**  
-  系统编程、C++/Rust/Python 开发、性能调优、跨语言互操作、Linux 内核接口、操作系统原理等方面的任何问题！
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lualua99)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lualua99)](https://github.com/stats-organization/github-stats-extended)
