@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**lualua99/lualua99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的GitHub！
 
-Here are some ideas to get you started:
+- 🔭 **我目前在做什么**  
+  正在开发个人项目 [Miracles Kernel]，一个用Linux Kernel 引导的Android系统内核。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **我现在在学习**  
+  深入学习 C++、Rust 和 Python，探索系统编程、性能优化和底层架构设计。
+
+- 👯 **我想合作的方向**  
+  欢迎在系统编程、操作系统开发、高性能计算、嵌入式或开源工具链方面交流与合作。如果你对内核、虚拟机、编译原理或底层网络感兴趣，欢迎一起探讨！
+
+- 💬 **可以问我关于**  
+  系统编程、C++/Rust/Python 开发、性能调优、跨语言互操作、Linux 内核接口、操作系统原理等方面的任何问题！
+
+- 📫 **如何联系我**  
+  （留空，由你决定是否补充）
+
+- 😄 **称呼**  
+  （留空）
+
+- ⚡ **趣事**  
+  （留空）
