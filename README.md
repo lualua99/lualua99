@@ -3,7 +3,7 @@
 欢迎来到我的GitHub！
 
 - 🔭 **我目前在做什么**  
-  正在开发个人项目 [Miracles Kernel]，一个用Linux Kernel 引导的Android系统内核。
+  正在开发个人项目 [Miracles Kernel]，一个用Linux Kernel 引导Android系统的内核。
 
 - 🌱 **我现在在学习**  
   深入学习 C++、Rust 和 Python，探索系统编程、性能优化和底层架构设计。
